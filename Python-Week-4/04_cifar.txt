@@ -1,0 +1,32 @@
+Predicted:    cat   car plane  ship
+
+
+[1,  2000] loss: 2.197
+[1,  4000] loss: 1.835
+[1,  6000] loss: 1.648
+[1,  8000] loss: 1.550
+[1, 10000] loss: 1.542
+[1, 12000] loss: 1.457
+[2,  2000] loss: 1.411
+[2,  4000] loss: 1.371
+[2,  6000] loss: 1.351
+[2,  8000] loss: 1.301
+[2, 10000] loss: 1.306
+[2, 12000] loss: 1.251
+Finished Training
+
+Accuracy of plane : 65 %
+Accuracy of   car : 73 %
+Accuracy of  bird : 38 %
+Accuracy of   cat : 48 %
+Accuracy of  deer : 38 %
+Accuracy of   dog : 51 %
+Accuracy of  frog : 61 %
+Accuracy of horse : 58 %
+Accuracy of  ship : 62 %
+Accuracy of truck : 60 %
+
+What's a Convolution?
+  A convolution is a step
+What's ReLU?
+What's Upsampling?
